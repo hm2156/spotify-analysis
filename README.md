@@ -119,14 +119,3 @@ spotify-analysis/
 ├── README.md               # Project overview and insights
 ```
 
----
-
-## Skills Demonstrated
-
-* Exploratory data analysis
-* Feature engineering
-* Interpretable clustering
-* Data visualization
-* Product-oriented analytical thinking
-
----
