@@ -114,7 +114,7 @@ This approach aligns more closely with how people actually use music in daily li
 ## Repository Structure
 
 ```
-spotify-listening-modes/
+spotify-analysis/
 ├── tracks_analysis.ipynb   # Full EDA, clustering, and visualizations
 ├── README.md               # Project overview and insights
 ```
